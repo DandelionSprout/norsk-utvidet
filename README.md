@@ -1,5 +1,5 @@
 # norsk-utvidet
-![alt text](https://raw.githubusercontent.com/DandelionSprout/norsk-utvidet/master/Tastaturets%20design%2C%20juli%202018.png)
+![alt text](https://raw.githubusercontent.com/DandelionSprout/norsk-utvidet/master/Tastaturets%20design.png)
 
 Dette er et norsk utvidet alternativt tastatur-oppsett som er langt bedre enn det eldgamle Windows-oppsettet. Har du noensinne følt deg plaget over hvorfor ditt norske Windows-tastatur fortsatt har sådanne taster som μ og ¤, men mangler slike super-viktige bokstaver som °, •, ∞, ★, og ̧ ? Nå trenger du aldri å ergre deg igjen.
 
